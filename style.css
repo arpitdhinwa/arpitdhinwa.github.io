@@ -138,6 +138,7 @@ html{
 }
 #services{
     display: flex;
+    align-items: center;
     flex-direction: column;
     padding: 20px;
 }
@@ -202,7 +203,7 @@ html{
 }
 #send{
     padding: 10px;
-    width:40%;
+    width:60%;
     margin:40px;
     border:none;
     outline:none;
