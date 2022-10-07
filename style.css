@@ -195,6 +195,7 @@ html{
 
 }
 #msg{
+
     width:100%;
     padding: 10px;
     margin:15px;
@@ -202,6 +203,8 @@ html{
     outline:none;
 }
 #send{
+    display: flex;
+    align-items: center;
     padding: 10px;
     width:60%;
     margin:40px;
