@@ -217,3 +217,8 @@ html{
     cursor:pointer;
     box-sizing: 0 0 10px white;
 }
+.submit{
+    align-items: center;
+    cursor: pointer;
+
+}
